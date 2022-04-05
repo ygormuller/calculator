@@ -21,6 +21,7 @@
     "build": "react-scripts build",
     "test": "node --experimental-vm-modules ./node_modules/.bin/jest",
     "eject": "react-scripts eject",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
 
   },
