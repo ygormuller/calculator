@@ -1,5 +1,5 @@
 # Preview
-https://calculator-ios.vercel.app/
+https://calculator-web-clone-ios.vercel.app/
 
 # Getting Started with Create React App
 
